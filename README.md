@@ -85,5 +85,6 @@ Screenshots included in the `screenshots/` folder:
 ## 📫 Contact
 
 - **Name:** Sarthak Zende
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your Email]
+- **LinkedIn:** https://www.linkedin.com/in/sarthakzende/
+- **Email:** szende@binghamton.edu
+  
