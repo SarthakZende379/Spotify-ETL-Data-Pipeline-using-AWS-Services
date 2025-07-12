@@ -5,7 +5,7 @@ This project implements a complete **ETL data pipeline** that extracts track met
 > ✅ **Note:** Due to Spotify API changes in 2024, only developer-registered playlists (like personal ones) are supported for data extraction.
 
 ---
-![Spotify ETL Architecture](spotify_project_aws_screenshots/Spotify_Data_Pipeline.png)
+![Spotify ETL Architecture](Screenshots/Spotify_Data_Pipeline.png)
 ---
 
 ## 📌 Features
